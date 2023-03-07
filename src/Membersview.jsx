@@ -29,7 +29,7 @@ function Membersview() {
         <div className="card-header">
           Member Id : {memberData.id}
         </div>
-        <div className="card-body ml-5 mr-5 bg-warning" style={{fontSize : "20px"}}>
+        <div className="card-body ml-5 mr-5 bg-gradient-secondary" style={{fontSize : "20px"}}>
           <h5 className="card-title">Name : {memberData.name}</h5>
           <h5 className="card-title">Card Id : {memberData.cardid}</h5>
           <h5 className="card-title">Member Group : {memberData.membergroup}</h5>

@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom'
 
 function Login() {
   return (
-    <div className="bg-gradient-primary">
+    <div className="bg-gradient-secondary">
       <div className="container">
 
         {/* <!-- Outer Row --> */}

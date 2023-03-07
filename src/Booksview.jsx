@@ -29,7 +29,7 @@ function Booksview() {
         <div className="card-header">
           Book Id : {bookData.id}
         </div>
-        <div className="card-body ml-5 mr-5 bg-warning" style={{fontSize : "20px"}}>
+        <div className="card-body ml-5 mr-5 bg-gradient-secondary" style={{fontSize : "20px"}}>
           <h5 className="card-title">ISBN : {bookData.isbn}</h5>
           <h5 className="card-title">Title : {bookData.title}</h5>
           <h5 className="card-title">Subject : {bookData.subject}</h5>
